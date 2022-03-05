@@ -131,4 +131,5 @@ Support for features and sensors
 But you can have all these specifications and features all in one phone and for only 600 Euros. This phone is one of the flagships of 2022, which has a lower price than its competitors and a much higher quality, and that is why the XIAOMI 11T PRO
 The best phone possible to [buy](https://www.amazon.co.uk/Xiaomi-11T-Pro-Smartphone-DotDisplay/dp/B09BK3PHRD)
 
-
+# License
+This text is under the [**_Xiaomi_**](https://www.mi.com/global/uwPoDXkmYo2ZYVIpl7BXPuFPlgI24MmizExoC04EQAvD_BwE) license
